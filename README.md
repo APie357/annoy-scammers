@@ -1,5 +1,14 @@
 # Annoy Scammers
 This program is made to annoy scammers by having them run a file and get [Desktop Goose](https://samperson.itch.io/desktop-goose)
+##### Instructions:
+1. Download latest release on **A SCAMMER'S PC**
+2. Run as **ADMINISTRATOR**, and if you cannot, run normally.
+3. Encourage the scammer to go on a lunch break while the "Scan" runs
+4. When they are on lunch break, **DELETE THE SCAMMER'S FILES** and be carefull to not delete your files and this program.
+5. **SYSKEY** the scammer's PC if possible.
+6. Do **NOT** restart their PC, the program will do that automatically.
+7. Wait until the scammer returns to thier PC and **RAGE** when they see what has happened.
+
 
 ##### EULA:
 ```
